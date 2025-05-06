@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build, lea
 
 ### 📬 Let's Connect
 
-- **Email**: [aftab@example.com](mailto:aftab@example.com)
+- **Email**:ranaaftabakram@gmail.com
 - **LinkedIn**: [linkedin.com/in/aftab](https://www.linkedin.com/in/aftab)
 - **Portfolio**: [aftab.dev](https://aftab.dev)
 
